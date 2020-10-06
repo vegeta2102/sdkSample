@@ -1,0 +1,3 @@
+[submodule "itab-sdk"]
+	path = itab-sdk
+	url = git@github.com:MobilityTechnologies/itab-sdk.git

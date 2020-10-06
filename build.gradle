@@ -1,0 +1,79 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+buildscript {
+    ext.kotlin_version = "1.3.72"
+    repositories {
+        google()
+        jcenter()
+    }
+    dependencies {
+        classpath "com.android.tools.build:gradle:3.5.3"
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+    }
+}
+
+
+
+def repo = new File(rootDir, "repository")
+
+apply plugin: 'maven'
+
+uploadArchives {
+    repositories {
+        mavenDeployer {
+            repository url: "file://${repo.absolutePath}"
+            pom.version = '1.0.0'             // version
+            pom.groupId = 'vegeta2102'    // グループ名
+            pom.artifactId = 'test-sdk' // ライブラリ名
+        }
+    }
+}
+
+ext {
+
+    kotlin_version = '1.3.41'
+
+    minSdkVersion = 24
+    targetSdkVersion = 28
+    compileSdkVersion = 28
+    buildToolsVersion = '28.0.3'
+
+    appCompatVersion = '1.1.0'
+    junitVersion = '4.12'
+    commonsCodecVersion = '1.10'
+    rxJava2Version = '2.2.10'
+    rxAndroidVersion = '2.1.1'
+    rxKotlinVersion = '2.3.0'
+    adapterRxJava2Version = '2.5.0'
+    roomVersion = '2.2.1'
+    lifecycleVersion = "2.2.0"
+    archVersion = "2.1.0"
+    navigationVersion = "2.1.0"
+    koinVersion = '2.1.6'
+    awsVersion = '2.11.1'
+    retrofitVersion = '2.6.2'
+    okhttp_version = '3.14.7'
+
+    espressoVersion = '3.2.0'
+
+    exoplayerVersion = '2.9.6'
+    fragmentVersion = '1.2.0'
+    // ifbox_sdk用変数
+    rxAndroidBle = '1.10.1'
+    retrofit2 = retrofitVersion
+
+    mockkVersion = '1.9.3'
+    truthVersion = '1.0'
+    puree_version = '4.1.6'
+
+    // Twilio
+    twilio_version = '5.3.0'
+}
