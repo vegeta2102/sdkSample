@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/hoang.vu/Work/source_code/sdkSample/library/build/intermediates/res/merged/release/mipmap-anydpi-v26/ic_launcher_round.xml",
+        "source": "/Users/hoang.vu/Work/source_code/sdkSample/library/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/hoang.vu/Work/source_code/sdkSample/library/build/intermediates/res/merged/release/mipmap-anydpi-v26/ic_launcher.xml",
+        "source": "/Users/hoang.vu/Work/source_code/sdkSample/library/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

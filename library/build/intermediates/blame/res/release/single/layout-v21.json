@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/hoang.vu/Work/source_code/sdkSample/library/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/hoang.vu/.gradle/caches/transforms-2/files-2.1/23aeae62795242ef5eee08913917f0aa/core-1.3.1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/hoang.vu/Work/source_code/sdkSample/library/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/hoang.vu/.gradle/caches/transforms-2/files-2.1/23aeae62795242ef5eee08913917f0aa/core-1.3.1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/hoang.vu/Work/source_code/sdkSample/library/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/hoang.vu/.gradle/caches/transforms-2/files-2.1/23aeae62795242ef5eee08913917f0aa/core-1.3.1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/hoang.vu/Work/source_code/sdkSample/library/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/hoang.vu/.gradle/caches/transforms-2/files-2.1/23aeae62795242ef5eee08913917f0aa/core-1.3.1/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

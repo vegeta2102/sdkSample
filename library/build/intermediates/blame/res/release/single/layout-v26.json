@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/hoang.vu/Work/source_code/sdkSample/library/build/intermediates/res/merged/release/layout-v26/mtrl_calendar_month.xml",
+        "source": "/Users/hoang.vu/.gradle/caches/transforms-2/files-2.1/7c5cd2a19f5bdcd4a451002da4f917ac/material-1.2.1/res/layout-v26/mtrl_calendar_month.xml"
+    },
+    {
+        "merged": "/Users/hoang.vu/Work/source_code/sdkSample/library/build/intermediates/res/merged/release/layout-v26/abc_screen_toolbar.xml",
+        "source": "/Users/hoang.vu/.gradle/caches/transforms-2/files-2.1/fbcaefc3edb79126ab778a246e9d8929/appcompat-1.2.0/res/layout-v26/abc_screen_toolbar.xml"
+    }
+]

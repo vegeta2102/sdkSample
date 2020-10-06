@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/hoang.vu/Work/source_code/sdkSample/library/build/intermediates/res/merged/release/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "/Users/hoang.vu/.gradle/caches/transforms-2/files-2.1/7c5cd2a19f5bdcd4a451002da4f917ac/material-1.2.1/res/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/hoang.vu/Work/source_code/sdkSample/library/build/intermediates/res/merged/release/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/hoang.vu/.gradle/caches/transforms-2/files-2.1/7c5cd2a19f5bdcd4a451002da4f917ac/material-1.2.1/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

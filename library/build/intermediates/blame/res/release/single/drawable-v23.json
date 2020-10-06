@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/hoang.vu/Work/source_code/sdkSample/library/build/intermediates/res/merged/release/drawable-v23/mtrl_popupmenu_background_dark.xml",
+        "source": "/Users/hoang.vu/.gradle/caches/transforms-2/files-2.1/7c5cd2a19f5bdcd4a451002da4f917ac/material-1.2.1/res/drawable-v23/mtrl_popupmenu_background_dark.xml"
+    },
+    {
+        "merged": "/Users/hoang.vu/Work/source_code/sdkSample/library/build/intermediates/res/merged/release/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/hoang.vu/.gradle/caches/transforms-2/files-2.1/fbcaefc3edb79126ab778a246e9d8929/appcompat-1.2.0/res/drawable-v23/abc_control_background_material.xml"
+    }
+]

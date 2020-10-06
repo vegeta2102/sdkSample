@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/hoang.vu/Work/source_code/sdkSample/library/build/intermediates/res/merged/release/xml/standalone_badge_gravity_bottom_end.xml",
+        "source": "/Users/hoang.vu/.gradle/caches/transforms-2/files-2.1/7c5cd2a19f5bdcd4a451002da4f917ac/material-1.2.1/res/xml/standalone_badge_gravity_bottom_end.xml"
+    },
+    {
+        "merged": "/Users/hoang.vu/Work/source_code/sdkSample/library/build/intermediates/res/merged/release/xml/standalone_badge.xml",
+        "source": "/Users/hoang.vu/.gradle/caches/transforms-2/files-2.1/7c5cd2a19f5bdcd4a451002da4f917ac/material-1.2.1/res/xml/standalone_badge.xml"
+    },
+    {
+        "merged": "/Users/hoang.vu/Work/source_code/sdkSample/library/build/intermediates/res/merged/release/xml/standalone_badge_offset.xml",
+        "source": "/Users/hoang.vu/.gradle/caches/transforms-2/files-2.1/7c5cd2a19f5bdcd4a451002da4f917ac/material-1.2.1/res/xml/standalone_badge_offset.xml"
+    },
+    {
+        "merged": "/Users/hoang.vu/Work/source_code/sdkSample/library/build/intermediates/res/merged/release/xml/standalone_badge_gravity_bottom_start.xml",
+        "source": "/Users/hoang.vu/.gradle/caches/transforms-2/files-2.1/7c5cd2a19f5bdcd4a451002da4f917ac/material-1.2.1/res/xml/standalone_badge_gravity_bottom_start.xml"
+    },
+    {
+        "merged": "/Users/hoang.vu/Work/source_code/sdkSample/library/build/intermediates/res/merged/release/xml/standalone_badge_gravity_top_start.xml",
+        "source": "/Users/hoang.vu/.gradle/caches/transforms-2/files-2.1/7c5cd2a19f5bdcd4a451002da4f917ac/material-1.2.1/res/xml/standalone_badge_gravity_top_start.xml"
+    }
+]

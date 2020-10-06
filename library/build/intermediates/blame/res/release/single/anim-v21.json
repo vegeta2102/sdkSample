@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/hoang.vu/Work/source_code/sdkSample/library/build/intermediates/res/merged/release/anim-v21/mtrl_bottom_sheet_slide_out.xml",
+        "source": "/Users/hoang.vu/.gradle/caches/transforms-2/files-2.1/7c5cd2a19f5bdcd4a451002da4f917ac/material-1.2.1/res/anim-v21/mtrl_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/hoang.vu/Work/source_code/sdkSample/library/build/intermediates/res/merged/release/anim-v21/fragment_fast_out_extra_slow_in.xml",
+        "source": "/Users/hoang.vu/.gradle/caches/transforms-2/files-2.1/cc9a56e5ffcbbce2fe223e0ab73d476c/fragment-1.2.4/res/anim-v21/fragment_fast_out_extra_slow_in.xml"
+    },
+    {
+        "merged": "/Users/hoang.vu/Work/source_code/sdkSample/library/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/hoang.vu/.gradle/caches/transforms-2/files-2.1/7c5cd2a19f5bdcd4a451002da4f917ac/material-1.2.1/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/hoang.vu/Work/source_code/sdkSample/library/build/intermediates/res/merged/release/anim-v21/mtrl_bottom_sheet_slide_in.xml",
+        "source": "/Users/hoang.vu/.gradle/caches/transforms-2/files-2.1/7c5cd2a19f5bdcd4a451002da4f917ac/material-1.2.1/res/anim-v21/mtrl_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/hoang.vu/Work/source_code/sdkSample/library/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/hoang.vu/.gradle/caches/transforms-2/files-2.1/7c5cd2a19f5bdcd4a451002da4f917ac/material-1.2.1/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]
